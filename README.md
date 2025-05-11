@@ -25,4 +25,4 @@ All plots and calculations are contained in a single Jupyter Notebook provided i
 
 ## Citation
 If you use this toolset in your research or reporting, please cite this repository as:
-> NASA STV Tools (2024). Tools for Trend Estimation and Event Detection in Surface Topography Analysis. https://github.com/yourusername/nasa-stv-tools
+> NASA STV Tools (2024). Tools for Trend Estimation and Event Detection in Surface Topography Analysis. https://github.com/Milillo-lab/NASA_STV_tools
